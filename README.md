@@ -20,5 +20,9 @@ Automated FEA and data extraction:
 (NOTE: the extracted figures and data can be modified depending on the desired data/analysis)
 4. Once all this is completed the record and auxiliary files are deleted. The inp and odb files are kept.
 
+
+Optionally to create the plots and save the data in just one .txt file run Nano-data.py
+
+
 If needed be, the replace-inp.py can be used to modify experimental parameters (loading time, substrate material, load, etc.) from the
 previous input file to run a separate parametric study using the same configuration used for the previous nanoindentation studies. 
