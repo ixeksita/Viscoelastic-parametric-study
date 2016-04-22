@@ -1,6 +1,8 @@
 #Created by Tania Sanchez Monroy (April 2016) tania.sanchezmonroy@manchester.ac.uk
 #Customized code for FEA obtained indentation data (can be easily adapted for 
 #any othe plots)
+#This code opens the FEA obtained data sets, creates plots and store all the data in
+#one single text file shall it need to be imported
 import re
 import os
 import glob 
